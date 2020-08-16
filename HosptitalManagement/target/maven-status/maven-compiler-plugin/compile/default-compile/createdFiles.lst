@@ -1,0 +1,4 @@
+com/hospital/management/repository/PatientRepository.class
+com/hospital/management/bean/Patient.class
+com/hospital/management/HosptitalManagementApplication.class
+com/hospital/management/contoller/PatientController.class
